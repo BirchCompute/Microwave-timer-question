@@ -14,7 +14,7 @@ Here is the graph.
 
 ![Figure_1](https://github.com/user-attachments/assets/ad15e011-ddbf-4e46-a560-e48d74b706cf)
 
-You can see that the lines meet at 61 seconds. This is where "6-1-Start" and "+30+30+30" meet. Both lines match between 61 and 90. Typing the numbers is briefly shorter between 90 and 99. They are briefly equal between 100 and 120. Then, typing out the number becomes quicker into infinity. 
+You can see that the lines meet at 61 seconds. This is where "6-1-Start" and "+30+30+30" meet. Both lines match between 61 and 90. Typing the numbers is briefly shorter between 90 and 99. They are briefly equal between 100 and 120. Then, typing out the number becomes quicker into infinity. This is a log curve falling under a linear curve.
 
 While seconds < 61, "+30 seconds" is faster than typing out the number.
 
